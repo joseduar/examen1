@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">todojose</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">nombre</string>
+    <string name="hinNombre">ingrese hin</string>
+    <string name="Actividad">escriba actividad</string>
+    <string name="ingrese">ingrese nombre</string>
+    <string name="hinActivity">ingrese actividad</string>
+    <string name="Guardar">Guardar</string>
+    <string name="error_valid">Ocurrio un Error u</string>
+    <string name="action_refresh">refrescar</string>
+</resources>
